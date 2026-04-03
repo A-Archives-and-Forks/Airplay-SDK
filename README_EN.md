@@ -11,7 +11,7 @@
 - Supports variable speed playback and 4K video playback; enables casting of 4K content from apps like iQiyi, Tencent Video, and Youku (dependent on receiver hardware specifications).
 - Deeply optimized protocol and decoding layers ensure low latency, providing a responsive experience for racing games (120ms latency).
 - Supports vertical displays, allowing smartphone screens to be magnified and displayed on vertical screens such as advertising kiosks or digital signage.
-- Install the [screen casting client](https://github.com/xfirefly/Airplay-SDK/raw/master/windows-receiver/win-screen-sender.msi) on Windows systems to easily cast your screen to a corresponding receiver using a casting code. Supports simultaneous mirroring from one computer to multiple receivers, and a single receiver can display multiple screens concurrently (one-to-many and many-to-one casting). Ideal for meetings, office use, and PPT presentations.
+- Install the [screen casting client](https://github.com/xfirefly/Airplay-SDK/raw/master/windows-receiver/win-screen-sender.exe) on Windows systems to easily cast your screen to a corresponding receiver using a casting code. Supports simultaneous mirroring from one computer to multiple receivers, and a single receiver can display multiple screens concurrently (one-to-many and many-to-one casting). Ideal for meetings, office use, and PPT presentations.
 
 ## Specifications
 - Supports 1080p/2K/4K resolution and 30/60 fps frame rate negotiation for mirroring.
