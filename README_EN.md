@@ -2,6 +2,7 @@
 - [Android Receiver](https://www.pgyer.com/SSKV) | [Android Sender](https://www.pgyer.com/QfhB) | [Download from official website](http://deeprd.com/)
 - [Windows receiver](https://github.com/xfirefly/Airplay-SDK/raw/master/windows-receiver/win-airplay.exe)
 - **AirPlay protocol source code for sale, compatible with Rockchip Linux, Windows, and Android platforms.**
+- Supports the wired AirPlay mirroring protocol. Simply connect the data cable to start mirroring, with no root required.
 - Supports AirPlay, Android mirroring, and DLNA; supports simultaneous mirroring for multiple AirPlay devices.
 - Supports wired casting for iPhone/iPad via USB cable, maintaining connection even when the screen is off, with a stable 60fps frame rate; ideal for large-screen gaming, live education, live gaming, and in-car casting scenarios.
 - Supports Android USB wired screen casting with synchronized audio and video mirroring, delivering clear, lag-free performance.
