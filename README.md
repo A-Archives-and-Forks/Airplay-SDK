@@ -4,7 +4,7 @@
 - [安卓接收端](https://www.pgyer.com/SSKV) | [安卓发送端](https://www.pgyer.com/QfhB) | [官网下载](http://iosair.cn/) 
 - [Windows 接收端](https://github.com/xfirefly/Airplay-SDK/raw/master/windows-receiver/win-airplay.exe)  
 - **出售 AirPlay 协议源代码, 可运行在 Linux / Android 等平台**
-- **支持 AirPlay 镜像有线协议, 插上数据线即可镜像, 且免Root **
+- **支持 AirPlay 镜像有线协议, 插上数据线即可镜像, 且免Root**
 - 代码深度优化, AirPlay镜像极低延迟, 数万付费用户的选择
 - 支持 1080p/2K/4K 镜像分辨率协商和 30/60 fps 镜像帧率协商
 - 支持 AirPlay H.265, 这对高分辨率（如 4K）镜像尤其重要
