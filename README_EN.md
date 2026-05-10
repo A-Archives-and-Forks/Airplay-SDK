@@ -1,6 +1,7 @@
 ## Airplay Receiver For Android & Windows
 - [Android Receiver](https://www.pgyer.com/SSKV) | [Android Sender](https://www.pgyer.com/QfhB) | [Download from official website](http://deeprd.com/)
 - [Windows receiver](https://github.com/xfirefly/Airplay-SDK/raw/master/windows-receiver/win-airplay.exe)
+- [Miracast receiver](https://github.com/xfirefly/Airplay-SDK/raw/master/miracast-tv.apk), Universal Wi-Fi Display receiver compatible with multiple platforms
 - **AirPlay protocol source code for sale, compatible with Rockchip Linux, Windows, and Android platforms.**
 - Supports the wired AirPlay mirroring protocol. Simply connect the data cable to start mirroring, with no root required.
 - Supports AirPlay, Android mirroring, and DLNA; supports simultaneous mirroring for multiple AirPlay devices.

@@ -3,6 +3,8 @@
 ## AirPlay Receiver For Android & Windows
 - [安卓接收端](https://www.pgyer.com/SSKV) | [安卓发送端](https://www.pgyer.com/QfhB) | [官网下载](http://iosair.cn/) 
 - [Windows 接收端](https://github.com/xfirefly/Airplay-SDK/raw/master/windows-receiver/win-airplay.exe)  
+- [Miracast 接收端](https://github.com/xfirefly/Airplay-SDK/raw/master/miracast-tv.apk)  兼容多个平台的通用版 Wi-Fi Display 接收端 
+- [投屏酒店版](https://github.com/xfirefly/Airplay-SDK/raw/master/hotel-receiver.apk)  扫码绑定手机, 一对一隐私投屏
 - **出售 AirPlay 协议源代码, 可运行在 Linux / Android 等平台**
 - **支持 AirPlay 镜像有线协议, 插上数据线即可镜像, 且免Root**
 - 代码深度优化, AirPlay镜像极低延迟, 数万付费用户的选择
